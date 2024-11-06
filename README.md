@@ -10,7 +10,7 @@ The **Simon Game** is a memory game where the player must repeat the sequence of
 
 ## Demo
 
-You can try out the game [here](URL_TO_YOUR_DEMO_IF_ANY).
+You can try out the game [here](https://jemogithirwa4.github.io/Simon-Game/).
 
 ## Technologies Used
 - **HTML**: The structure of the game, including buttons and titles.
